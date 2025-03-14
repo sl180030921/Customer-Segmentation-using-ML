@@ -5,4 +5,4 @@ This project applies unsupervised machine learning to segment customers based on
 📝 This project is based on an open-source repository. I have added my own modifications and improvements to enhance its functionality.
 
 ### 🔗 Original Repository: 
-https://github.com/SagarPatel98/Customer-Segmentation-using-Machine-Learning
+[GitHub Repository](https://github.com/SagarPatel98/Customer-Segmentation-using-Machine-Learning)
